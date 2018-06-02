@@ -1,0 +1,11 @@
+.services .services-single{
+	background: #ddd;
+    border: 1px solid #000;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+
+.card{
+	border:none !important;
+	margin-bottom: 2rem;
+}
